@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TaskMasterPro.API/TaskMasterPro.API.csproj" />
+    <Project Path="src/TaskMasterPro.Application/TaskMasterPro.Application.csproj" />
+    <Project Path="src/TaskMasterPro.Domain/TaskMasterPro.Domain.csproj" />
+    <Project Path="src/TaskMasterPro.Infrastructure/TaskMasterPro.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TaskMasterPro.IntegrationTests/TaskMasterPro.IntegrationTests.csproj" />
+    <Project Path="tests/TaskMasterPro.UnitTests/TaskMasterPro.UnitTests.csproj" />
+  </Folder>
+</Solution>
